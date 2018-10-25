@@ -1,7 +1,7 @@
 package com.flashdin.belajarspringweb.entity;
 
 public class Profile extends User {
-
+//ini pada ada import nya yang merah di ketik ulang coba
     private String namaLengkap;
     private String alamat;
     private int umur;

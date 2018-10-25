@@ -9,7 +9,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 @Controller
-@RequestMapping("/profile")
+@RequestMapping("/profile")   //nih namanya harus sama
 public class ProfileController {
 
     @Autowired
