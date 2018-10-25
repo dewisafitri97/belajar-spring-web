@@ -2,7 +2,7 @@ package com.flashdin.belajarspringweb.controller;
 
 
 import com.flashdin.belajarspringweb.entity.Matkul;
-import com.flashdin.belajarspringweb.entity.Profile;
+
 import com.flashdin.belajarspringweb.service.MatkulService;
 import com.flashdin.belajarspringweb.service.ProfileSevice;
 import org.springframework.beans.factory.annotation.Autowired;
